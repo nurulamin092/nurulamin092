@@ -3,7 +3,7 @@
 
 Web Developer || MERN stack web Developer || React Developer || Full stack Developer
 
-Skills: REACT / JS/Nodejs /  / HTML / CSS/TailwindCss
+Skills: REACT / JS/Nodejs / HTML / CSS/TailwindCss
 
 - 🔭 I’m currently working on this pagehttps://my-portfolio-fa45c.web.app/ 
 - 🌱 I’m currently learning Javascript 
